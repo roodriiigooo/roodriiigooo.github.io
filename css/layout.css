@@ -298,6 +298,50 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
+#skill {
+   background: #fff;
+   padding-top: 90px;
+   overflow: hidden;
+}
+
+.skill {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+}
+
+#skill .header-col { padding-top: 9px; }
+#skill .main-col { padding-right: 10%; }
+
+#skill a, #skill a:visited  { color: #11ABB0; }
+#skill a:hover, #skill a:focus { color: #313131; }
+
+#skill h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#skill h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#skill h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#skill .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#skill .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#skill .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
 
 .bars {
 	width: 95%;
@@ -338,6 +382,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
+
 /*
 .git {
   	-moz-animation: git 2s ease;
@@ -1148,3 +1193,81 @@ footer .social-links li:first-child { margin-left: 0; }
    color: #303030 !important;
    font-size: 0.15em;
  }
+
+ .float-ease {
+   animation: float 2s infinite ease;
+ }
+ 
+ .float-ease-in {
+   animation: float 2s infinite ease-in;
+ }
+ 
+ .float-ease-in-out {
+   animation: float 2s infinite ease-in-out;
+ }
+ 
+ .float-ease-out {
+   animation: float 2s infinite ease-out;
+ }
+ 
+ @keyframes float {
+   0% {
+     transform: translateY(0);
+     -webkit-transform: translateY(0);
+   }
+ 
+   50% {
+     transform: translateY(1rem);
+     -webkit-transform: translateY(1rem);
+   }
+ 
+   100% {
+     transform: translateY(0);
+     -webkit-transform: translateY(0);
+   }
+ }
+ 
+ .tag {
+	--color: var(--light-color);
+	font-family: var(--regular-font);
+	font-size: 1rem;
+	border-radius: 100rem;
+	box-shadow: 0 0 0 2px var(--light-color);
+	background-color: transparent;
+	color: var(--dark-color);
+	font-weight: bold;
+	transition:
+		background-color 250ms ease,
+		box-shadow 250ms ease;
+}
+
+.chip{
+   display: inline-flex;
+   flex-direction: row;
+   background-color: #e5e5e5;
+   border: none;
+   cursor: default;
+   height: 36px;
+   outline: none;
+   padding: 0;
+   font-size: 14px;
+   font-color: #333333;
+   font-family:"Open Sans", sans-serif;
+   white-space: nowrap;
+   align-items: center;
+   border-radius: 16px;
+   vertical-align: middle;
+   text-decoration: none;
+   justify-content: center;
+   margin: 1%;
+}
+
+.chip-content{
+   cursor: inherit;
+   display: flex;
+   align-items: center;
+   user-select: none;
+   white-space: nowrap;
+   padding-left: 12px;
+   padding-right: 12px;
+}
