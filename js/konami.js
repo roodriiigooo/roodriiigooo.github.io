@@ -160,4 +160,6 @@ window.addEventListener("keydown", function(e) {
     }
 }, false);
 
-var easter_egg = new Konami('http://www.nyan.cat/');
+// var easter_egg = new Konami('http://www.nyan.cat/');
+var easter_egg = new Konami('https://rodrigo.londrina.br/kegg/index_app.html');
+
