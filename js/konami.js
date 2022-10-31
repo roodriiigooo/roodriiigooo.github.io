@@ -160,6 +160,11 @@ window.addEventListener("keydown", function(e) {
     }
 }, false);
 
+const RedirectPage = () => {
+    window.open('http://rodrigo.londrina.br/nestation/', '_blank');
+}
+
+
 // var easter_egg = new Konami('http://www.nyan.cat/');
-var easter_egg = new Konami('../nestation/#');
+var easter_egg = new Konami(RedirectPage);
 
