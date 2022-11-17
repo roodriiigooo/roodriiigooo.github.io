@@ -9,7 +9,7 @@
 
 ##
 
-(https://activity-graph.herokuapp.com/graph?username=roodriiigooo&bg_color=000010&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roodriiigooo&bg_color=000010&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="display: inline_block"><br>
