@@ -38,21 +38,9 @@
 </div>
 
 #
-<div align="center">... or leave a comment: 
+<div align="center">
 	
-([🖊️ here](https://github.com/roodriiigooo/roodriiigooo/issues/1#issuecomment-new))
-	
-<br>
 
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/roodriiigooo"><img width="24" src="https://avatars.githubusercontent.com/u/5695737?s=24&u=b45e54d8433a41a6de9faa65bd02c2ff10916d61&v=4" alt="roodriiigooo" /> roodriiigooo</a> |18/11/2022 18:09:36|Yeah!!|
-<!-- /Guestbook -->
-
-<br><br>	
-#
 
 <br><br>	
 See ya! 👋
