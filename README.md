@@ -34,7 +34,7 @@
   <a href="https://gitlab.com/roodriiigooo" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" alt="Rodrigo's Gitlab"></a> 
   <a href="https://www.hackerrank.com/rodrigomelo" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%eab676?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="Rodrigo's Hackerrank" target="_blank"></a> 
   <a href="https://rodrigo.londrina.br" target="_blank"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Website"></a>
-  <a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee target="_blank"></a>
+  <a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Book-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Book" target="_blank"></a>
 	  
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
