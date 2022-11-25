@@ -28,7 +28,7 @@
 	  
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
 
-<a href="https://github.com/roodriiigooo/roodriiigooo.github.io/raw/master/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
+<a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
 </div>
 
 
