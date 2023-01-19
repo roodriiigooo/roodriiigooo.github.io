@@ -161,5 +161,5 @@ window.addEventListener("keydown", function(e) {
 }, false);
 
 // var easter_egg = new Konami('http://www.nyan.cat/');
-var easter_egg = new Konami('../nestation/');
+var easter_egg = new Konami('http://app.rodrigo.londrina.br');
 
