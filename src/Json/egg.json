@@ -1,0 +1,15 @@
+{
+  "ROMS": {
+    "egg": {
+      "name": "egg",
+      "description": {
+            "href" : "",
+            "target" : "_blank",
+            "rel" : "noopener noreferrer"
+      },
+      "Title" : "Gradius",
+      "Dev" : "Konami",
+      "url": "/egg/egg.nes"
+    }
+  }
+}

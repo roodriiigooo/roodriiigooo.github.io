@@ -1,0 +1,380 @@
+{ 
+  "main": {
+    "name":"Rodrigo A. Melo",
+    "occupation":"",
+    "description":"",
+    "image":"rodrigo_profile_picture__.png",
+    "bio":"Rodrigo é formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná (UTFPR), MBA em Big Data e Inteligência na Gestão de Dados e também especializado em Segurança Ofensiva e Inteligência Cibertnética. Profissional da área de tecnologia, inclui em seu currículo desenvolvimento de sistemas e processos, testes de segurança, administração de redes, bancos de dados e ferramentas de tomada de decisão com conhecimento amplo em diversas tecnologias que são aplicadas em soluções tecnológicas de alta confiabilidade.",
+    "contactmessage":"",
+    "email": "roh.amelo@gmail.com",
+    "phone": "-",
+    "address":{
+      "street":"",
+      "city":"Londrina",
+      "state":"PR",
+      "zip": ""
+    },
+    "website": "http://www.rodrigo.londrina.br",
+    "resumedownload":"https://rodrigo.londrina.br/cv/profile.pdf",
+    "social":[
+      {
+        "name":"Encontre Rodrigo no LinkedIn",
+        "url":"https://linkedin.com/in/rodrigooo",
+        "className":"fa fa-linkedin"
+      }, 
+      {
+        "name":"Visite meu GitHub",
+        "url":"https://github.com/roodriiigooo",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"Veja o meu Instagram",
+        "url":"https://www.instagram.com/roodriiigooo",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"Visite meu GitLab",
+        "url":"https://gitlab.com/roodriiigooo",
+        "className":"fa fa-gitlab"
+      },
+     
+      {
+        "name":"Visite meu HackerHank",
+        "url":"https://www.hackerrank.com/rodrigomelo",
+        "className":"fa fa-h-square"
+      },
+      {
+        "name":"Me ajuda a comprar novos livros?",
+        "url":"https://www.buymeacoffee.com/rodrigoo",
+        "className":"fa fa-book"
+      },
+      {
+        "name":"Fale comigo agora!",
+        "url":"mailto:roh.amelo@gmail.com?subject=[VIA WEBSITE]%20%20Entrando%20em%20contato&body=Ol%C3%A1%20Rodrigo%21%0AEstou%20entrando%20em%20contato%20com%20voc%C3%AA%20depois%20de%20ver%20seu%20site%20para%20...",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Aqui seguem algumas tecnologias que tenho contato:",
+    "skillmessage1":".. e outras",
+    "education":[
+      {
+        "school":"Faculdade VincIT - UNICIV",
+        "degree":"Especialização Lato Sensu em Segurança Ofensiva e Inteligência Cibernética",
+        "graduated":"Novembro 2022",
+        "description":"Capacidade de analisar ambientes a procura de falhas na segurança, documentando e apresentado a serviço de melhoria do SGSI."
+      },
+      {
+        "school":"Centro de Inovação VincIT - UNICIV",
+        "degree":"MBA em Big Data e Inteligência na Gestão de Dados",
+        "graduated":"Março 2020",
+        "description":"Capacidade de gerenciar ambientes com dados estruturados e não estruturados, realizar análise de dados por meio de ferramentas de inteligência analítica de dados e auxiliar nas tomadas de decisão por meio de ferramentas de análise de dados mais utilizadas no mercado."
+      },
+      {
+        "school":"Universidade Tecnológica Federal do Paraná (UTFPR)",
+        "degree":"Tecnólogo em Analise e Desenvolvimento de Sistemas",
+        "graduated":"2014 - 2019",
+        "description":"Foi onde obtive uma educação muito mais aprofundada na teoria, conceitos e ciência por trás da programação. Descobri minha paixão pelo desenvolvimento de aplicativos escaláveis e responsivos (web e móvel), a segurança por trás dos sistemas de computadores e aplicativos, e descobri que tenho o dom de entender algoritmos complexos."
+      }
+    ],
+    "certification":[
+      {
+        "school":"Data Science Academy",
+        "degree":"Microsoft Power BI para Data Science",
+        "graduated":"Emitido em julho de 2020 - Nenhuma data de expiração",
+        "description":"Código da credencial 5f2175b5e32fc33a3d2b8e37"
+      },
+      {
+        "school":"CertiProf",
+        "degree":"Scrum Foundation Professional Certificate (SFPC)",
+        "graduated":"Emitido em junho de 2020 - Nenhuma data de expiração",
+        "description":"Código da credencial FLCLJPPTWQ-SSHJQSRQ-WHKBNNBWQN"
+      },
+      {
+        "school":"SMstudy - Global Accreditation Body for Sales and Marketing Certifications",
+        "degree":"Digital Marketing Fundamentals",
+        "graduated":"Emitido em agosto de 2019 - Nenhuma data de expiração",
+        "description":"Nº da credencial 595832"
+      },
+      {
+        "school":"SCRUMstudy - Accreditation Body for Scrum and Agile",
+        "degree":"Scrum Fundamentals Certified",
+        "graduated":"Emitido em julho de 2019 - Nenhuma data de expiração",
+        "description":"Nº da credencial 718478"
+      }
+    ],
+    "work":[
+      {
+        "company":"MegaMamute",
+        "title":"Analista de TI Pleno",
+        "years":"Novembro de 2019 - Atualmente",
+        "description":"Analista de sistemas. Tecnologias/Frameworks: C#, .Net, .Net Core, HTML5, CSS3, Javascript, Bootstrap, MVC, Razor Pages, MS SQL Server, Linq e mais."
+      },
+      {
+        "company":"Instituto Biosistemico",
+        "title":"Analista de Desenvolvimento de Software 2 (Pleno)",
+        "years":"Agosto de 2019 - Novembro de 2019 (4 meses)",
+        "description":"Analista de Sistemas. Web e mobile applications. Tecnologias: Java (JSF, Spring), HTML5, CSS3, Javascript, Bootstrap, Angular 4 ~ 6, PostgreSQL, Hibernate e mais."
+      },
+      {
+        "company":"Instituto Biosistemico",
+        "title":"Analista de Desenvolvimento de Software 1 (Junior)",
+        "years":"Junho de 2018 - Julho de 2019 (1 ano 1 mes)",
+        "description":""
+      },
+      {
+        "company":"S4W Marketing Digital",
+        "title":"Engenheiro/Desenvolvedor Web (Estágio)",
+        "years":"Janeiro de 2018 - Junho de 2018 (6 meses)",
+        "description":"Desenvolvimento web responsivo nas tecnologias utilizadas pela empresa seguindo regras de SEO, MVC e design gráfico. Criação de temas para Wordpress, montagem de email marketing e demais particularidades. Tecnologias: .Net, ASP.net, C#, MS SQL Server, SEO, Marketing Digital related"
+      },
+      {
+        "company":"VSM Informática",
+        "title":"Help Desk/Service Desk Agent",
+        "years":"Janeiro de 2014 - Dezembro de 2015 (2 anos)",
+        "description":"Suporte técnico online ao cliente direcionado aos sistemas os sistemas OuroFarma e FrontFarma e suas particularidades."
+      },
+      {
+        "company":"CDS Software",
+        "title":"Helpdesk / Service Desk / Consultor de Implantação",
+        "years":"2013 - 2014",
+        "description":"Suporte técnico online, telefonico e presencial aos clientes que utilizam os sistemas CDSFive e CDSSimco. Implantação, treinamento, manuntenção dos sistemas, atendimento de chamados e visitas técnicas de suporte e implantação. Desenvolvimento de personalizações quando necessário."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Postgres SQL",
+        "level":"78%"
+      },
+      {
+        "name":"MS Sql Server",
+        "level":"85%"
+      },
+      {
+        "name":"MySql",
+        "level":"68%"
+      },
+      {
+        "name":"HTML5",
+        "level":"93%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"85%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"87%"
+      },
+      {
+        "name":"React",
+        "level":"72%"
+      },
+      {
+        "name":"Windows",
+        "level":"72%"
+      },
+      {
+        "name":"Arduino",
+        "level":"85%"
+      },
+      {
+        "name":"Angular",
+        "level":"75%"
+      },
+      {
+        "name":"Fullstack",
+        "level":"85%"
+      },
+      {
+        "name":"SEO",
+        "level":"72%"
+      },
+      {
+        "name":"Android",
+        "level":"72%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"78%"
+      },
+      {
+        "name":"SOLID",
+        "level":"85%"
+      },
+      {
+        "name":"Clean Code",
+        "level":"85%"
+      },
+      {
+        "name":"Linux",
+        "level":"72%"
+      },
+      {
+        "name":"Primefaces (JSF)",
+        "level":"82%"
+      },
+      {
+        "name":"Front-end",
+        "level":"85%"
+      },
+      {
+        "name":"Back-End",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Pandas",
+        "level":"85%"
+      }, {
+        "name":"Chrome Webdriver",
+        "level":"85%"
+      },
+      {
+        "name":"BeaultfulSoup",
+        "level":"85%"
+      },
+      {
+        "name":"ASP.Net",
+        "level":"79%"
+      },
+      {
+        "name":"Material Design",
+        "level":"85%"
+      },
+      {
+        "name":"Razor Pages",
+        "level":"80%"
+      },
+      {
+        "name":"Entity Framework",
+        "level":"87%"
+      },
+      {
+        "name":"Hibernate",
+        "level":"89%"
+      },
+      {
+        "name":"Windows Forms",
+        "level":"85%"
+      },
+      {
+        "name":"MVC",
+        "level":"92%"
+      },
+      {
+        "name":"Linq",
+        "level":"85%"
+      },
+      {
+        "name":"SCRUM",
+        "level":"95%"
+      },
+      {
+        "name":"AWS",
+        "level":"85%"
+      },
+      {
+        "name":"Git",
+        "level":"88%"
+      },
+      {
+        "name":".Net",
+        "level":"85%"
+      },
+      {
+        "name":".Net Core",
+        "level":"85%"
+      },
+      {
+        "name":"Adobe Photoshop",
+        "level":"90%"
+      },
+      {
+        "name":"E mais ...",
+        "level":"72%"
+      }
+      
+    ],
+    "exp":[
+      {
+        "title":"Tecnologia da Informação",
+        "description":"Linguagens de programação com ênfase em desenvolvimento web e multiplataforma, UX/UI, Front-end e Back-end, gerenciamento de nuvem, serviços AWS e desenvolvimento ágil."
+      },
+      {
+        "title":"e-Commerce",
+        "description":"Gerenciamento e desenvolvimento de processos e aplicações que envolvem integração multi-canais. Conhecimento de produto, SEO, organização e processos."
+      },
+      {
+        "title":"Escritório e Administração",
+        "description":"Manipulação de dados e conhecimento de processos básicos."
+      },
+      {
+        "title":"Vendas, Varejo e Atendimento ao Cliente",
+        "description":"Conhecimento de produto, análise de necessidades, marketing de referência, negociação de contratos e CRM."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Lorem impsum sit amet..",
+        "user":"Anonymous"
+      },
+      {
+        "text":"Lorem impsum dolor sit amet . ..",
+        "user":"R_O_D_R_I_G_O"
+      }
+    ]
+  }
+}
