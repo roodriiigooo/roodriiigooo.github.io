@@ -161,5 +161,11 @@ window.addEventListener("keydown", function(e) {
 }, false);
 
 // var easter_egg = new Konami('http://www.nyan.cat/');
-var easter_egg = new Konami('http://app.rodrigo.londrina.br');
+// var easter_egg = new Konami('http://app.rodrigo.londrina.br');
+
+// const easterEgg = new Konami(() => {
+//     var audio = new Audio('../sfx/egg_sfx.wav');
+//     audio.play();
+// });
+
 

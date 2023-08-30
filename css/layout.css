@@ -1271,3 +1271,26 @@ footer .social-links li:first-child { margin-left: 0; }
    padding-left: 12px;
    padding-right: 12px;
 }
+<<<<<<< HEAD
+=======
+
+.sticker {
+   margin-top: 20%;
+   padding: 5px;
+   border-radius: 50%;
+   border: 1px solid #cfcfcf;
+   background-color: #fff;
+   box-shadow: 0 0 2px -1px #808080;
+ }
+ 
+ #nes-canvas{
+   width: 256px;
+   height: 240px; 
+   width: 100%;
+ }
+
+ #nes-div{
+   margin: auto; 
+   width: 75%;
+ }
+>>>>>>> 4a78a1b (Updates)

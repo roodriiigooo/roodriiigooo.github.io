@@ -1,13 +1,24 @@
 {
+<<<<<<< HEAD
   "main.css": "/static/css/main.07318036.chunk.css",
   "main.js": "/static/js/main.21c107d1.chunk.js",
   "main.js.map": "/static/js/main.21c107d1.chunk.js.map",
+=======
+  "main.css": "/static/css/main.064090e1.chunk.css",
+  "main.js": "/static/js/main.d7830640.chunk.js",
+  "main.js.map": "/static/js/main.d7830640.chunk.js.map",
+>>>>>>> 4a78a1b (Updates)
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.a3333ee9.chunk.js": "/static/js/2.a3333ee9.chunk.js",
-  "static/js/2.a3333ee9.chunk.js.map": "/static/js/2.a3333ee9.chunk.js.map",
+  "static/js/2.ddfc6b3c.chunk.js": "/static/js/2.ddfc6b3c.chunk.js",
+  "static/js/2.ddfc6b3c.chunk.js.map": "/static/js/2.ddfc6b3c.chunk.js.map",
   "index.html": "/index.html",
+<<<<<<< HEAD
   "precache-manifest.0bfc9c9af2f9e2cee8f179ad3afbfd8a.js": "/precache-manifest.0bfc9c9af2f9e2cee8f179ad3afbfd8a.js",
+=======
+  "precache-manifest.3e377f0af273bbc723291ef38c0da396.js": "/precache-manifest.3e377f0af273bbc723291ef38c0da396.js",
+>>>>>>> 4a78a1b (Updates)
   "service-worker.js": "/service-worker.js",
-  "static/css/main.07318036.chunk.css.map": "/static/css/main.07318036.chunk.css.map"
+  "static/css/main.064090e1.chunk.css.map": "/static/css/main.064090e1.chunk.css.map",
+  "static/media/InterglacticTransmissing.nes": "/static/media/InterglacticTransmissing.216143ba.nes"
 }
