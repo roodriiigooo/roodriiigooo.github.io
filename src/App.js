@@ -8,6 +8,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Ending from './Components/Ending';
+import EasterEgg from './Components/EasterEgg';
 
 class App extends Component {
 
@@ -22,6 +23,7 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
 
   }
+  
 
   getResumeData(){
     $.ajax({
@@ -57,6 +59,7 @@ class App extends Component {
     //this.getResumeData(); 
     //this.getEggConfig();
   }
+  
 
   render() {
   
@@ -78,6 +81,7 @@ class App extends Component {
               <Resume />
               <Ending />
               <Footer />
+              <EasterEgg />
             </div>
             </Route>
           </Switch>

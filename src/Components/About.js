@@ -22,7 +22,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
 
-         <div className="waveWrapper  hidden-sm hidden-xs">
+         {/* <div className="waveWrapper  hidden-sm hidden-xs">
             <div className="waveWrapperInner bgBack">
                <div className="wave waveAnimation waveBack hidden"></div>
             </div>
@@ -32,15 +32,15 @@ class About extends Component {
             <div className="waveWrapperInner bgBottom">
                <div className="wave waveAnimation waveBottom"></div>
             </div>
-         </div>
+         </div> */}
          
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Rodrigo A. Melo foto de perfil" />
+            <img className="profile-pic sticker"  src={profilepic} alt="Rodrigo A. Melo foto de perfil" />
          </div>
          <div className="nine columns main-col">
             <h2>Sobre</h2>
 
-            <p className="text-adjust">{bio}</p>
+            <p className="text-adjust">{bio} <br/> Saiba mais baixando o meu currículo completo: </p>
             <div className="row">
                <div className="columns contact-details hidden">
                   <h2>Informações de Contato</h2>
@@ -51,7 +51,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button no-underline"><i className="fa fa-download"></i>Baixar currículo completo agora!</a>
+                     <a href={resumeDownload} className="button no-underline"><i className="fa fa-download"></i>Baixar currículo completo </a>
                   </p>
                </div>
             </div>

@@ -61,7 +61,7 @@ class Resume extends Component {
       <div className="row work">
 
           <div className="three columns header-col">
-            <h1><span>CERTIFICAÇÃO</span></h1>
+            <h1><span>CERTIFICADOS</span></h1>
           </div>
 
           <div className="nine columns main-col">
@@ -81,21 +81,21 @@ class Resume extends Component {
       <section id="skill">
         <div className="row skill">
           <div className="three columns header-col">
-            <h1><span>SKILLS</span></h1>
+            <h1><span>TECNOLOGIAS</span></h1>
           </div>
 
             <div className="nine columns main-col">
-            {exp}
+            {/* {exp} */}
             </div>
         
 
-          <div className="row">
+          {/* <div className="row"> */}
             <div className="three columns header-col">
               <h1><span></span></h1>
             </div>
             <div className="nine columns main-col">
               <p className="text-center hidden">{skillmessage}</p>
-                <h3>Conhecimento</h3>
+                {/* <h3>Conhecimento</h3> */}
                   {tagskills}
 
                   {/* <div className="bars">
@@ -103,7 +103,7 @@ class Resume extends Component {
                       {skills}
                     </ul>
                   </div> */}
-            </div>
+            {/* </div> */}
             {/* <p className="text-center hidden">{skillmessage1}</p> */}
           </div>
         </div>

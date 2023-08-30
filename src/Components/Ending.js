@@ -24,15 +24,15 @@ class About extends Component {
 
          
          <div className="twelve columns main-col">
-            <h2 alt="Obrigado!">Obrigado!</h2>
+            <h2 alt="Obrigado!">Vamos conversar?</h2>
 
-            <p alt="Se você chegou até aqui, talvez eu tenha algo a contribuir com o seu projeto. No rodapé estão as formas de enttrar em contato comigo, prometo responder o mais breve possível!" className="text-adjust">Se você chegou até aqui, talvez eu tenha algo a contribuir com o seu projeto. {bio} Deixei no rodapé algumas formas de falar diretamente comigo, prometo responder o mais breve possível!</p>
+            <p alt="Se você chegou até aqui, talvez eu tenha algo a contribuir com o seu projeto. No rodapé estão as formas de enttrar em contato comigo, prometo responder o mais breve possível!" className="text-adjust">Se você chegou até aqui, talvez eu tenha algo a contribuir com o seu projeto.  <br/>{bio}<br/><br/>Mais informações estão disponíveis no meu currículo completo: </p>
             <div className="row">
                <div className="columns contact-details hidden">
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button no-underline"><i className="fa fa-download"></i>Baixar currículo completo agora!</a>
+                     <a href={resumeDownload} className="button no-underline"><i className="fa fa-download"></i>Baixar currículo completo</a>
                   </p>
                </div>
             </div>

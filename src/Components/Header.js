@@ -1,9 +1,11 @@
-import React, { Component } from 'react';
+import React, { Component,  useEffect  } from 'react';
+
 import data from './../Json/data';
 
 const jsonData = data;
+
 class Header extends Component {
-  
+
   render() {
     // console.log(jsonData);
     if(jsonData){
@@ -13,10 +15,10 @@ class Header extends Component {
         return <li key={network.name} alt={network.name} title={network.name} ><a target="_blank" href={network.url}><i className={network.className}></i></a></li>
       })
     }
-
+    
     return (
       <header id="home">
-
+        
       <nav id="nav-wrap">
 
         <a className="mobile-btn hidden-xs hidden-sm" href="#nav-wrap" title="Show navigation">Mostrar botão de navegação</a>
@@ -26,7 +28,7 @@ class Header extends Component {
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">Sobre</a></li>
 	          <li><a className="smoothscroll" href="#resume">Formação</a></li>
-            <li><a className="smoothscroll" href="#skill">Skills</a></li>
+            <li><a className="smoothscroll" href="#skill">Tecnologias</a></li>
          </ul>
 
       </nav>
@@ -46,7 +48,7 @@ class Header extends Component {
                         <div className="e-card-header">
                             <div className="e-card-header-caption center">
                                 <div className="e-card-header-title name responsive-headline">{name}</div>
-                                <div className="e-card-sub-title">Analista de Sistemas / Full Stack Developer / Data Science / InfoSec<br/>Londrina - PR</div>
+                                <div className="e-card-sub-title">Full Stack Developer Sênior | CyberSecurity | Business Inteligence<br/>Londrina - PR</div>
                             </div>
                         </div>
                         <div className="e-card-content hidden">

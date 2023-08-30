@@ -4,7 +4,7 @@
     "occupation":"",
     "description":"",
     "image":"rodrigo_profile_picture__.png",
-    "bio":"Rodrigo é formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná (UTFPR), MBA em Big Data e Inteligência na Gestão de Dados e também especializado em Segurança Ofensiva e Inteligência Cibertnética. Profissional da área de tecnologia, inclui em seu currículo desenvolvimento de sistemas e processos, testes de segurança, administração de redes, bancos de dados e ferramentas de tomada de decisão com conhecimento amplo em diversas tecnologias que são aplicadas em soluções tecnológicas de alta confiabilidade.",
+    "bio":"Rodrigo é formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Tecnológica Federal do Paraná (UTFPR), MBA em Big Data e Inteligência na Gestão de Dados e também especializado em Segurança Ofensiva e Inteligência Cibernética. Profissional da área de tecnologia, inclui em seu currículo desenvolvimento de sistemas e processos, testes de segurança, administração de redes, bancos de dados e ferramentas de tomada de decisão com conhecimento amplo em diversas tecnologias que são aplicadas em soluções tecnológicas de alta confiabilidade.",
     "contactmessage":"",
     "email": "roh.amelo@gmail.com",
     "phone": "-",
@@ -184,6 +184,14 @@
         "level":"72%"
       },
       {
+        "name":"OSINT",
+        "level":"72%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
         "name":"Windows",
         "level":"72%"
       },
@@ -192,11 +200,23 @@
         "level":"85%"
       },
       {
+        "name":"Visual Studio",
+        "level":"85%"
+      },
+      {
         "name":"Angular",
         "level":"75%"
       },
       {
-        "name":"Fullstack",
+        "name":"Amazon Web Services",
+        "level":"75%"
+      },
+      {
+        "name":"Bitbucket",
+        "level":"75%"
+      },
+      {
+        "name":"Entity Framework",
         "level":"85%"
       },
       {
@@ -205,6 +225,10 @@
       },
       {
         "name":"Android",
+        "level":"72%"
+      },
+      {
+        "name":"Terminal",
         "level":"72%"
       },
       {
@@ -267,6 +291,10 @@
         "level":"87%"
       },
       {
+        "name":"Burp Suite",
+        "level":"89%"
+      },
+      {
         "name":"Hibernate",
         "level":"89%"
       },
@@ -291,7 +319,7 @@
         "level":"85%"
       },
       {
-        "name":"Git",
+        "name":"Github",
         "level":"88%"
       },
       {

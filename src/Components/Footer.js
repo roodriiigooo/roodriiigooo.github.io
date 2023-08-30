@@ -1,7 +1,9 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import data from './../Json/data';
 const d = new Date();
 let year = d.getFullYear();
+
+
 
 const jsonData = data.main;
 class Footer extends Component {
