@@ -1282,3 +1282,13 @@ footer .social-links li:first-child { margin-left: 0; }
    box-shadow: 0 0 2px -1px #808080;
  }
  
+ #nes-canvas{
+   width: 256px;
+   height: 240px; 
+   width: 100%;
+ }
+
+ #nes-div{
+   margin: auto; 
+   width: 75%;
+ }
