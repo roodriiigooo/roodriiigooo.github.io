@@ -220,6 +220,7 @@ ul#nav li.current a { color: #11ABB0; }
    width: 200px;
    height: 200px;
    border-radius: 100%;
+   box-shadow: 0 16px 28px -8px rgba(0, 0, 0, .36), 0 4px 15px 0 rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
