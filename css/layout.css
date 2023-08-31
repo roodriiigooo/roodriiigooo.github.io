@@ -1191,7 +1191,8 @@ footer .social-links li:first-child { margin-left: 0; }
  .konami-hidden 
  {
    color: #303030 !important;
-   font-size: 0.15em;
+   /* font-size: 0.15em; */
+   font-size: 0.4em;
  }
 
  .float-ease {
