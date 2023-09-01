@@ -1294,12 +1294,13 @@ footer .social-links li:first-child { margin-left: 0; }
    width: 75%;
  }
 
- .cntlr{
+ /* .cntlr{
    position: absolute !important;
    padding: 0 50px 10px 50px !important;
- }
+   z-index: 10000;
+ } */
 
- svg.d-pad{
+ /* svg.d-pad{
    width: 9% !important;
    height: 16% !important;
  }
@@ -1307,4 +1308,4 @@ footer .social-links li:first-child { margin-left: 0; }
  svg.btns{
    width: 10% !important;
    height: 10% !important;
- }
+ } */
