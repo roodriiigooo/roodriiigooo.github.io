@@ -1293,3 +1293,18 @@ footer .social-links li:first-child { margin-left: 0; }
    margin: auto; 
    width: 75%;
  }
+
+ .cntlr{
+   position: absolute !important;
+   padding: 0 50px 10px 50px !important;
+ }
+
+ svg.d-pad{
+   width: 9% !important;
+   height: 16% !important;
+ }
+
+ svg.btns{
+   width: 10% !important;
+   height: 10% !important;
+ }
