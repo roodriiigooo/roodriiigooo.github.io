@@ -54,7 +54,7 @@ Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `S
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1519650044545?e=1706745600&v=beta&t=1BunEhRkLLsVUE7FMtR8DrkURZDdE3UH3yoAgaA8zxs"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
+[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1519650044545?e=1706745600&v=beta&t=1BunEhRkLLsVUE7FMtR8DrkURZDdE3UH3yoAgaA8zxs" style="border-radius:50%"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
 
 **Web Engineer** \
 [**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \
@@ -80,7 +80,9 @@ Featured Projects: PRIVATE
   	<a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" target="_blank"></a>
 	  
 ![](https://komarev.com/ghpvc/?username=roodriiigooo&style=for-the-badge&label=PROFILE+VIEWS)
-
+<br><br>
+or
+<br><br>
 	
 <a href="https://rodrigo.londrina.br/cv/profile.pdf" target="_blank"><img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Rodrigo's Resume"></a>
 
