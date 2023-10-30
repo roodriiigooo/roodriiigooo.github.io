@@ -43,7 +43,7 @@ Techs/Frameworks: `Java (JSF, Spring)`, `Docker`, `Angular`, `Node`, `React`, `S
 Featured Projects: PRIVATE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1519650044545?e=1706745600&v=beta&t=1BunEhRkLLsVUE7FMtR8DrkURZDdE3UH3yoAgaA8zxs" style="border-radius:50%"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
+[<img align="left" height="94px" width="94px" alt="S4W Marketing Digital" src="https://media.licdn.com/dms/image/C4D0BAQHoVdTky9-yiw/company-logo_200_200/0/1519650044545?e=1706745600&v=beta&t=1BunEhRkLLsVUE7FMtR8DrkURZDdE3UH3yoAgaA8zxs"/>](https://www.linkedin.com/company/s4w-marketing-digital/)
 
 **Web Engineer** \
 [**S4W Marketing Digital**](https://www.linkedin.com/company/s4w-marketing-digital/) • Contract \
@@ -102,3 +102,5 @@ or
 	
 <br><br>	
 </div>
+
+
