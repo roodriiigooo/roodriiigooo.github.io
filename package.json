@@ -44,7 +44,6 @@
     "jsnes": "^1.2.1",
     "konami": "^1.6.2",
     "lodash": "^4.17.21",
-    "nes-cntlr": "^4.0.3",
     "nes.css": "2.1.1",
     "query-string": "^6.14.1",
     "quickp2p": "^2.1.1",
@@ -62,7 +61,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-    "deploy-code": "gh-pages -b Code -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
