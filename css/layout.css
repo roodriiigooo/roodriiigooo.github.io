@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.png) no-repeat top center;
+   background: #2B2B2B url(https://github.com/roodriiigooo/roodriiigooo.github.io/blob/master/images/_header-background.png?raw=true) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -93,7 +93,7 @@ header .banner-text hr {
 }
 
 header .social {
-   margin: 0px 0;
+   margin: 5px 0;
    padding: 0;
    font-size: 21px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
@@ -189,7 +189,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #11ABB0; }
 
 
 /* ------------------------------------------------------------------ */
@@ -220,6 +220,7 @@ ul#nav li.current a { color: #F06000; }
    width: 200px;
    height: 200px;
    border-radius: 100%;
+   box-shadow: 0 16px 28px -8px rgba(0, 0, 0, .36), 0 4px 15px 0 rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -1036,7 +1037,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #11ABB0;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -1272,8 +1273,6 @@ footer .social-links li:first-child { margin-left: 0; }
    padding-left: 12px;
    padding-right: 12px;
 }
-<<<<<<< HEAD
-=======
 
 .sticker {
    margin-top: 20%;
