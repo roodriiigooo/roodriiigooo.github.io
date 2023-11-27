@@ -1,6 +1,9 @@
 import React, { Component, useState, useEffect } from 'react';
 import Konami from "konami";
 import jsnes from "jsnes";
+import Emulator from './Emulator';
+import Runpage from './RunPage';
+import data from './InterglacticTransmissing.nes';
 
 
 export default function EasterEgg()  
@@ -15,41 +18,46 @@ export default function EasterEgg()
       },[])
 
     const [isShown, setIsShown] = useState(false);
+    var isEgg = false;
 
     const handleClick = event => {
         setIsShown(current => !current);
+        isEgg = !isEgg;
+
+        if (isEgg) {
+            window.location.replace("/#egg")
+        } else {
+            window.location.replace("/#home")
+        }
     };
  
-
     return (
-       
+        <section id="egg">
             <div>
                 {
                     isShown && (
-                        <footer>
-                        <div>
-                       
-                        </div>
+                        <footer style={{margin:"0"}}>
+                           
+                                {/* <p>DPad: Setas | Start: Enter | Select: CTRL Direito | Botão A: Z | Botão B: X</p> */}
+                                <Runpage />
+                           
                         </footer>
                     ) 
                 }
                 {isShown && <EGG />}
             </div>
-      
+      </section>
     );
   }
 
   function EGG() {
 
-    // nes_load_url("nes-canvas", "..egg/InterglacticTransmissing.nes");
-
+    
     return (
       <div>
         <footer>  
-            <div id="nes-div" >
-                <canvas id="nes-canvas" />
-            </div>
-            <p>DPad: Arrow keys<br/>Start: Return, Select: Tab<br/>A Button: A, B Button: S</p>
+            
+            {/* <p>DPad: Arrow keys<br/>Start: Return, Select: Tab<br/>A Button: A, B Button: S</p> */}
         </footer>
       
       </div>

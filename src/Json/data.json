@@ -61,6 +61,18 @@
     "education":[
       {
         "school":"Faculdade VincIT - UNICIV",
+        "degree":"Especialização Lato Sensu em Segurança Defensiva – Blue Team Operations",
+        "graduated":"Novembro 2023",
+        "description":"Avalia a segurança da rede e identifica possíveis vulnerabilidades. Foco em detecção de ameaças e resposta de incidentes, principal objetivo é aplicar estratégias de defesa e manter a segurança dos sistemas e aplicações. Reúne não somente softwares, mas protocolos de segurança, equipamentos e profissionais para que todo esse ecossistema seja cada vez mais eficiente."
+      },
+      {
+        "school":"Faculdade VincIT - UNICIV",
+        "degree":"Especialização Lato Sensu em Engenharia e Planejamento DevOps",
+        "graduated":"Novembro 2023",
+        "description":"Compreende e aplica os princípios DevOps, ferramentas e práticas como automação de testes e qualidade de software, sendo também capaz de atuar no processo de implantação da cultura DevOps."
+      },
+      {
+        "school":"Faculdade VincIT - UNICIV",
         "degree":"Especialização Lato Sensu em Segurança Ofensiva e Inteligência Cibernética",
         "graduated":"Novembro 2022",
         "description":"Capacidade de analisar ambientes a procura de falhas na segurança, documentando e apresentado a serviço de melhoria do SGSI."

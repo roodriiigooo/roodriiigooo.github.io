@@ -1192,7 +1192,8 @@ footer .social-links li:first-child { margin-left: 0; }
  .konami-hidden 
  {
    color: #303030 !important;
-   font-size: 0.15em;
+   /* font-size: 0.15em; */
+   font-size: 0.4em;
  }
 
  .float-ease {
@@ -1282,3 +1283,29 @@ footer .social-links li:first-child { margin-left: 0; }
    box-shadow: 0 0 2px -1px #808080;
  }
  
+ #nes-canvas{
+   width: 256px;
+   height: 240px; 
+   width: 100%;
+ }
+
+ #nes-div{
+   margin: auto; 
+   width: 75%;
+ }
+
+ /* .cntlr{
+   position: absolute !important;
+   padding: 0 50px 10px 50px !important;
+   z-index: 10000;
+ } */
+
+ /* svg.d-pad{
+   width: 9% !important;
+   height: 16% !important;
+ }
+
+ svg.btns{
+   width: 10% !important;
+   height: 10% !important;
+ } */

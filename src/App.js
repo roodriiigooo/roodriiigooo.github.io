@@ -80,8 +80,8 @@ class App extends Component {
               <About />
               <Resume />
               <Ending />
-              <Footer />
               <EasterEgg />
+              <Footer />
             </div>
             </Route>
           </Switch>
