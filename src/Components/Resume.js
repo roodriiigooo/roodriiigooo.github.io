@@ -10,12 +10,12 @@ class Resume extends Component {
       var skillmessage1 = jsonData.skillmessage1;
 
       var education = jsonData.education.map(function(education){
-        return <div name={education.school}><h3>{education.school}</h3>
-        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
+        return <div name={education.degree}><h3>{education.degree}</h3>
+        <p className="info">{education.school} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p className="text-adjust">{education.description}</p></div>
       })
       var work = jsonData.work.map(function(work){
-        return <div name={work.company}><h3>{work.company}</h3>
+        return <div name={work.company}><h3>{work.company}</h3> 
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p className="text-adjust">{work.description}</p>
         </div>

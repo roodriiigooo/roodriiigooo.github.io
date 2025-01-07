@@ -64,7 +64,7 @@
     "deploy": "gh-pages -b master -d build",
     "deploy-code": "gh-pages -b Code -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
