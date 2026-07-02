@@ -4,3 +4,6 @@ Disallow: /css
 Disallow: /static
 Disallow: /images
 
+Sitemap: https://rodrigo.londrina.br/sitemap.xml
+Sitemap: https://www.rodrigo.londrina.br/sitemap.xml
+
