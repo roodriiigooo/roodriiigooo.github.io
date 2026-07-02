@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fbb9aeb1c93c5c1f0929",
+    "revision": "dd38ad8402ab8f6652fa",
     "url": "/static/css/main.002385a4.chunk.css"
   },
   {
-    "revision": "fbb9aeb1c93c5c1f0929",
-    "url": "/static/js/main.1478c12b.chunk.js"
+    "revision": "dd38ad8402ab8f6652fa",
+    "url": "/static/js/main.51877ae6.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/InterglacticTransmissing.216143ba.nes"
   },
   {
-    "revision": "9cdf1c90d8d423c0c6952e9985ac84a4",
+    "revision": "c7a532f8772e1bc269a9e1cf62fcf85f",
     "url": "/index.html"
   }
 ];
