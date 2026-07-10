@@ -1,26 +1,26 @@
 self.__precacheManifest = [
   {
-    "revision": "8c8c12d0bf938a459ca0",
-    "url": "/static/css/main.f3b1e6d2.chunk.css"
+    "revision": "0148ea4b927e7e523945",
+    "url": "/static/css/main.2fe85720.chunk.css"
   },
   {
-    "revision": "8c8c12d0bf938a459ca0",
-    "url": "/static/js/main.bc573714.chunk.js"
+    "revision": "0148ea4b927e7e523945",
+    "url": "/static/js/main.c5a5b1b7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "a1455712d121c78b56b8",
-    "url": "/static/js/2.764c911d.chunk.js"
+    "revision": "39c88b939decd8b47c3b",
+    "url": "/static/js/2.b38948e7.chunk.js"
   },
   {
     "revision": "216143ba4d4ee59ec9713c7c0c9bc3e9",
     "url": "/static/media/InterglacticTransmissing.216143ba.nes"
   },
   {
-    "revision": "7e6b18b6e40e05b63c52d3271348a512",
+    "revision": "c9784ed515ea95194275b77430171fa0",
     "url": "/index.html"
   }
 ];
